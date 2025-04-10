@@ -1,2 +1,2 @@
-runGraph:
-	go run ./cmd/graph
+runDijikstra:
+	go run ./cmd/graph/dijikstra
